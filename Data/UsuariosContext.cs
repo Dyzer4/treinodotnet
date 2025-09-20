@@ -8,7 +8,7 @@ namespace Usuarios.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var connectionString = "Server=localhost;Database=Usuarios;Uid=root;Pwd=root;";
+            var connectionString = "Server=localhost;Database=Usuarios;Uid=;Pwd=;";
             var serverVersion = new MySqlServerVersion(new Version(8, 0, 26));
 
             optionsBuilder.UseMySql(connectionString, serverVersion);
