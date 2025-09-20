@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3DT\\Documents\\Dyego\\Usuarios\\Usuarios.csproj": {}
+    "C:\\Users\\dyego\\Documents\\treinodotnet\\Usuarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3DT\\Documents\\Dyego\\Usuarios\\Usuarios.csproj": {
+    "C:\\Users\\dyego\\Documents\\treinodotnet\\Usuarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3DT\\Documents\\Dyego\\Usuarios\\Usuarios.csproj",
+        "projectUniqueName": "C:\\Users\\dyego\\Documents\\treinodotnet\\Usuarios.csproj",
         "projectName": "Usuarios",
-        "projectPath": "C:\\Users\\3DT\\Documents\\Dyego\\Usuarios\\Usuarios.csproj",
-        "packagesPath": "C:\\Users\\3DT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3DT\\Documents\\Dyego\\Usuarios\\obj\\",
+        "projectPath": "C:\\Users\\dyego\\Documents\\treinodotnet\\Usuarios.csproj",
+        "packagesPath": "C:\\Users\\dyego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dyego\\Documents\\treinodotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\3DT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dyego\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

@@ -10,5 +10,13 @@ public class Usuarios
     public int Id { get; set; } 
     public string Nome { get; private set; }
 
-    
+    public void AlterarNome(string nome)
+    {
+        Nome = nome;
+    }
+
+    public void DeletarUsuario()
+    {
+        Nome = "DESATIVADO";
+    }
 }
